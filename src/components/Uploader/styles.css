@@ -1,0 +1,20 @@
+.upload-area{
+  width: 100%;
+  padding: 20px;
+}
+
+.btn-file-browser {
+  color: rgb(112,112,112);
+  font-weight: 500;
+  border-color: black;
+  border-width: 2px;
+}
+
+.drop-area{
+  color: black;
+  padding: 6% 10%;
+}
+
+.message {
+  font-size: 15px;
+}
